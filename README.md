@@ -1,10 +1,10 @@
 <h1><center>Smart RGB Bulb</center></h1>
 The smart RGB bulb is a bulb that can emit a wide variety of colours. All of that is controlled through an android app via Bluetooth. Apart from the Bluetooth control, the bulb can also be controlled via WiFi. Also the bulb is smart in a way that it can change its intensity according to the changes in the light intensity in the surroundings.
 
-
-
+<br><br>
 **Block diagram for control via Bluetooth:**
 ![Block Diagram](https://raw.githubusercontent.com/AkshayChavan7/COLOR-CHANGING-BULB/master/Project%20Video/Picture1.jpg)
+<br><br>
 **Block diagram for control via wifi:** <br>
 ![enter image description here](https://raw.githubusercontent.com/AkshayChavan7/COLOR-CHANGING-BULB/master/Project%20Video/Picture2.jpg)
 <br>
