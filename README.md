@@ -28,6 +28,11 @@ The smart RGB bulb is a bulb that can emit a wide variety of colours. All of tha
 
 **Applications:**
 Home, exhibitions, discos, fairs, international events like launch of products/award ceremonies, auditoriums and theatres, marriage ceremony, birthday parties, etc.
+
+**Watch Video**
+<br><br>
+[![Video](http://img.youtube.com/vi/ff9eCN66Vxs/0.jpg)](http://www.youtube.com/watch?v=ff9eCN66Vxs "Halo - Android App Controlled Color Changing Light Bulb")
+
 ## 
 <center>© Akshay Chavan</center>
 
